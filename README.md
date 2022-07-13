@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a student at a 42 programming school. I'm currently learning to do Data Science and looking for a job in that area.
+I'm a student at a 42 programming school and a psychologist. I'm currently learning to do Data Science and looking for a job in that area. I've been doing myriad of courses on Data Science in the past year or so and now I'm doing my own projects on it. Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C. Almost all of the the projects at Hive Helsinki, the 42 programming school, are done in C.
 
-## ✨ **Highlighted Projects** ✨
+### ✨ **Highlighted Projects** ✨
 
 ##### Predicting Raises in Bitcoin using Deep Learning
 https://github.com/Olwar/bitcoin-prediction-deeplearning
