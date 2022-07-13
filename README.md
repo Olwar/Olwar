@@ -11,7 +11,7 @@ https://github.com/Olwar/bitcoin-prediction-deeplearning
 Here's the website where you can see it live!
 https://seraphinabot.dev/#/
 
-##### A template for your Machine Learning Cryptocurrency Trading Bot :money_mouth_face:
+##### A Template for your Machine Learning Cryptocurrency Trading Bot :money_mouth_face:
 https://github.com/Olwar/ml-tradingbot-template
 
 <!--
