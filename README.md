@@ -4,13 +4,15 @@ I'm a student at a 42 programming school and a psychologist. I'm currently learn
 
 ### ✨ **Highlighted Projects** ✨
 
-##### Predicting Raises in Bitcoin using Deep Learning
+##### Predicting Raises in Bitcoin using Deep Learning :robot:
 https://github.com/Olwar/bitcoin-prediction-deeplearning
 
-##### My Trading Bot (with real money)
+##### My Trading Bot (with real money) :chart:
 Here's the website where you can see it live!
 https://seraphinabot.dev/#/
 
+##### A template for your Machine Learning Cryptocurrency Trading Bot :money_mouth_face:
+https://github.com/Olwar/ml-tradingbot-template
 
 <!--
 **Olwar/Olwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
