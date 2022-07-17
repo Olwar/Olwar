@@ -4,6 +4,8 @@ I'm a student at a 42 programming school and a psychologist. I'm currently learn
 
 ### ✨ **Highlighted Projects** ✨
 
+##### Predicing Drops in Crypto using XGBoost :coin:
+
 ##### Predicting Raises in Bitcoin using Deep Learning :robot:
 https://github.com/Olwar/bitcoin-prediction-deeplearning
 
