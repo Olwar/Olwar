@@ -4,11 +4,11 @@ I'm a student at a 42 programming school and a psychologist. I'm currently learn
 
 ### ✨ **Highlighted Projects** ✨
 
-##### Predicing Drops in Crypto using XGBoost :coin:
+##### Binary Classifcation | Predicing Drops in Crypto using XGBoost :coin:
 https://github.com/Olwar/XGBoost-binary-classification
 
-##### Predicting Raises in Bitcoin using Deep Learning :robot:
-https://github.com/Olwar/bitcoin-prediction-deeplearning
+##### Deep Learning | Predicting the Price of S&P 500 five days in advance :dollar:
+https://github.com/Olwar/deeplearning-sp500-prediction
 
 ##### My Trading Bot (with real money) :chart:
 Here's the website where you can see it live!
