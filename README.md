@@ -4,6 +4,9 @@ I'm a student at a 42 programming school and a psychologist. I'm currently learn
 
 ### ✨ **Highlighted Projects** ✨
 
+##### Multiclass Classifcation | Predicting Drops and Raises in BTC/USD using Linear Regression and Deep Learning :moneybag:
+https://github.com/Olwar/multiclass-classification
+
 ##### Binary Classifcation | Predicting Drops in Crypto using XGBoost :coin:
 https://github.com/Olwar/XGBoost-binary-classification
 
