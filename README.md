@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm a student at a 42 programming school and a psychologist. I'm currently learning to do Data Science and looking for a job in that area. I've been doing myriad of courses on Data Science in the past year or so and now I'm doing my own projects on it. Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C. Almost all of the the projects at Hive Helsinki, the 42 programming school, are done in C.
+I'm a student at a 42 programming school and a psychologist. I'm currently looking for a job in Data Science. Check my projects on it! Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C. Almost all of the the projects at Hive Helsinki, the 42 programming school, are done in C.
 
 ### ✨ **Highlighted Projects** ✨
+
+##### Reinforcement Learning | A model that learns its own trading strategy :heart_eyes:
+https://github.com/Olwar/eth-reinforcement/tree/master
 
 ##### Multiclass Classifcation | Predicting Drops and Raises in BTC/USD using Linear Regression and Deep Learning :moneybag:
 https://github.com/Olwar/multiclass-classification
@@ -10,7 +13,7 @@ https://github.com/Olwar/multiclass-classification
 ##### Binary Classifcation | Predicting Drops in Crypto using XGBoost :coin:
 https://github.com/Olwar/XGBoost-binary-classification
 
-##### Deep Learning | Predicting the Price of S&P 500 five days in advance using a Neural Network :dollar:
+##### Regression Model | Predicting the Price of S&P 500 five days in advance using a Neural Network :dollar:
 https://github.com/Olwar/deeplearning-sp500-prediction
 
 ##### My Trading Bot (with real money) :chart:
