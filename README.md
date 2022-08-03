@@ -13,7 +13,7 @@ https://github.com/Olwar/multiclass-classification
 ##### Binary Classifcation | Predicting Drops in Crypto using XGBoost :coin:
 https://github.com/Olwar/XGBoost-binary-classification
 
-##### Regression Model | Predicting the Price of S&P 500 five days in advance using a Neural Network :dollar:
+##### Regression Model | Predicting the Price of S&P 500 one week in advance using a Neural Network :dollar:
 https://github.com/Olwar/deeplearning-sp500-prediction
 
 ##### My Trading Bot (with real money) :chart:
