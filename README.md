@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at a 42 programming school and a psychologist. I'm currently looking for a job in Data Science. Check my projects on it! Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C. Almost all of the the projects at Hive Helsinki, the 42 programming school, are done in C.
+I'm a student at a 42 programming school and a psychologist. I'm currently looking for a job in Data Science. Check my projects on it! Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C.
 
 ### ✨ **Highlighted Projects** ✨
 
