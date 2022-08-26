@@ -4,6 +4,9 @@ I'm a student at a 42 programming school and a psychologist. I'm currently looki
 
 ### ✨ **Highlighted Projects** ✨
 
+##### Showcasing C skills | A tetris solver :heavy_minus_sign:
+https://github.com/Olwar/fillit
+
 ##### Reinforcement Learning | A model that learns its own trading strategy :heart_eyes:
 https://github.com/Olwar/eth-reinforcement/tree/master
 
