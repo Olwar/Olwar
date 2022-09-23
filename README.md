@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-I'm a student at a 42 programming school and a psychologist. I'm currently looking for a job in Data Science. Check my projects on it! Practically I've been dealing with data since the entrance exam to study psychology. Statistics are the core of the exam and remain to be essential throughout the studies. My main programming languages are Python and C.
+Shifting careers from a psychologist to a data scientist. My dream is to combine my three passions: People, data science and investments.
+
+I've been working as a psychologist for the past couple of years, the last year as an psychologist entrepreneur. At the same time I've been studying programming and data science. Now I’m ready to take steps in a new direction and start a full-time job as a Data Scientist.
 
 ### ✨ **Highlighted Projects** ✨
 
 ##### Showcasing C skills | A Tetris Solver :heavy_minus_sign:
 https://github.com/Olwar/fillit
+
+##### Computer Vision | Program for detecting objects in an uploaded image. Made for Schibsted as a team project. :chair:
+https://github.com/Olwar/tori_classifier
 
 ##### Reinforcement Learning | A model that learns its own trading strategy :heart_eyes:
 https://github.com/Olwar/eth-reinforcement/tree/master
