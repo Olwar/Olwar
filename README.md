@@ -15,9 +15,6 @@ https://github.com/Olwar/tori_classifier
 ##### Reinforcement Learning | A model that learns its own trading strategy :heart_eyes:
 https://github.com/Olwar/eth-reinforcement/tree/master
 
-##### Multiclass Classifcation | Predicting Drops and Raises in BTC/USD using Linear Regression and Deep Learning :moneybag:
-https://github.com/Olwar/multiclass-classification
-
 ##### Binary Classifcation | Predicting Drops in Crypto using XGBoost :coin:
 https://github.com/Olwar/XGBoost-binary-classification
 
