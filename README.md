@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Shifting careers from a psychologist to a data scientist. My dream is to combine my three passions: People, data science and investments.
+Shifting careers from a psychologist to a data scientist. My dream is to combine my two passions: People and data science.
 
 I've been working as a psychologist for the past couple of years, the last year as an psychologist entrepreneur. At the same time I've been studying programming and data science. Now I’m ready to take steps in a new direction and start a full-time job as a Data Scientist.
 
