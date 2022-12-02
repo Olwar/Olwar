@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Shifting careers from a psychologist to a data scientist. My dream is to combine my two passions: People and data science.
+Shifting careers from psychology to tech.
 
-I've been working as a psychologist for the past couple of years, the last year as an psychologist entrepreneur. At the same time I've been studying programming and data science. Now I’m ready to take steps in a new direction and start a full-time job as a Data Scientist.
+I've been working as a psychologist for the past couple of years, the last year as an psychologist entrepreneur. At the same time I've been studying programming and data science. Now I’m ready to take steps in a new direction and start a full-time job in tech.
 
 ### ✨ **Highlighted Projects** ✨
 
@@ -12,13 +12,7 @@ https://github.com/Olwar/fillit
 ##### Computer Vision | Program for detecting objects in an uploaded image. Made for Schibsted as a team project. :chair:
 https://github.com/Olwar/tori_classifier
 
-##### Reinforcement Learning | A model that learns its own trading strategy :heart_eyes:
-https://github.com/Olwar/eth-reinforcement/tree/master
-
-##### Binary Classifcation | Predicting Drops in Crypto using XGBoost :coin:
-https://github.com/Olwar/XGBoost-binary-classification
-
-##### Regression Model | Predicting the Price of S&P 500 one week in advance using a Neural Network :dollar:
+##### Recurrent Neural Network | Predicting the Price of S&P 500 one week in advance using a Neural Network :dollar:
 https://github.com/Olwar/deeplearning-sp500-prediction
 
 ##### My Trading Bot (with real money) :chart:
