@@ -15,6 +15,10 @@ https://github.com/Olwar/tori_classifier
 ##### Recurrent Neural Network | Predicting the Price of S&P 500 one week in advance using a Neural Network :dollar:
 https://github.com/Olwar/deeplearning-sp500-prediction
 
+##### Showcasing Full Stack skills | An Imaginary Drone Detector :bird:
+Source code: https://github.com/Olwar/pilot_detector/
+Web application: https://seraphinabot.dev/nomadikuikka/
+
 ##### My Trading Bot (with real money) :chart:
 Here's the website where you can see it live!
 https://seraphinabot.dev/#/
