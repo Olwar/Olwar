@@ -12,7 +12,7 @@ https://github.com/Olwar/fillit
 ##### Computer Vision | Program for detecting objects in an uploaded image. Made for Schibsted as a team project. :chair:
 https://github.com/Olwar/tori_classifier
 
-##### Google Cloud | Program for getting speech from a video into grammatically correct text form using GCS (Cloud Storage, Cloud AI) and OpenAI (GPT-3)
+##### Google Cloud | Program for getting speech from a video into grammatically correct text form using GCS (Cloud Storage, Cloud AI) and OpenAI (GPT-3) :cloud:
 https://github.com/Olwar/gcp-video-to-text
 
 ##### Full Stack skills | An Imaginary Drone Detector :bird:
