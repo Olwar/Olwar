@@ -19,8 +19,8 @@ https://github.com/Olwar/gcp-video-to-text
 Source code: https://github.com/Olwar/pilot_detector/  
 Web application: https://seraphinabot.dev/nomadikuikka/
 
-#### A Template for your Machine Learning Cryptocurrency Trading Bot :money_mouth_face:
-https://github.com/Olwar/ml-tradingbot-template
+#### Sales Prediction | A complete machine learning model development process with excellent documentation and slides for the (fake) CEO :money_mouth_face:
+https://github.com/Olwar/sales-prediction-ex
 
 <!--
 **Olwar/Olwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
