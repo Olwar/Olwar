@@ -15,10 +15,6 @@ https://github.com/Olwar/tori_classifier
 #### Google Cloud | Program for getting speech from a video into grammatically correct text form using GCS (Cloud Storage, Cloud AI) and OpenAI (GPT-3) :cloud:
 https://github.com/Olwar/gcp-video-to-text
 
-#### Full Stack skills | An Imaginary Drone Detector :bird:
-Source code: https://github.com/Olwar/pilot_detector/  
-Web application: https://seraphinabot.dev/nomadikuikka/
-
 #### Sales Prediction | A complete machine learning model development process with excellent documentation and slides for the (fake) CEO :money_mouth_face:
 https://github.com/Olwar/sales-prediction-ex
 
