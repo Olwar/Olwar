@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Shifting careers from psychology to tech.
-
-I've been working as a psychologist for the past couple of years, the last year as an psychologist entrepreneur. At the same time I've been studying software engineering and data science. Now I’m ready to take steps in a new direction and start a full-time job in tech.
-
 ### ✨ **Highlighted Projects** ✨
 
 #### C skills | A Tetris Solver :heavy_minus_sign:
